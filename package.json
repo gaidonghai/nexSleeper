@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gaidonghai/nexSleeper/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/gaidonghai/nexSleeper#readme"
 }
