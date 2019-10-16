@@ -1,6 +1,6 @@
 {
   "name": "@gaidonghai/nexsleeper",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "a sleeper timer to prevent certain jobs from running too fast",
   "main": "index.js",
   "scripts": {
