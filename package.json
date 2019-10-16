@@ -1,0 +1,19 @@
+{
+  "name": "nexsleeper",
+  "version": "1.0.0",
+  "description": "a sleeper timer to prevent certain jobs from running too fast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaidonghai/nexSleeper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaidonghai/nexSleeper/issues"
+  },
+  "homepage": "https://github.com/gaidonghai/nexSleeper#readme"
+}
