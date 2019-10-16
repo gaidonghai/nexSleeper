@@ -1,5 +1,5 @@
 {
-  "name": "nexsleeper",
+  "name": "@gaidonghai/nexsleeper",
   "version": "1.0.5",
   "description": "a sleeper timer to prevent certain jobs from running too fast",
   "main": "index.js",
